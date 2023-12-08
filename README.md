@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @lisamacapple 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...learning C,Python, web design
+- 🌱 I’m currently learning ...CS50; hopefully officially until Jan 2025
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
-Thanks. I'm just starting. CS50 student. ;)
+around.octothorpe@gmail.com
+
 <!---
 lisamacapple/lisamacapple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
