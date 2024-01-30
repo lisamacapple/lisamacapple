@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lisamacapple 
 - 👀 I’m interested in ...learning C,Python, web design, doing original work, learning to program
-- 🌱 I’m currently learning ...CS50 (just at the beginning now); hopefully officially until Jan 2025; taking it slowly, slooooowwwwly
-- 💞️ I’m looking to collaborate on .. (NB: this is strictly aspirational( because I'm at the way, way beginning)--> incorruptable and fierce open source projects with great structure, surprising and delightful creativity, redeeming social value, accessibility, and (hopefully) sheer competence and longevity. 
+- 🌱 I’m currently learning ...CS50 (just at the beginning now); officially until 2025
+- 💞️ I’m looking to collaborate on .. Open Source projects (in the future)
 - 📫 How to reach me ...
 around.octothorpe@gmail.com
 (I check email weekly)
